@@ -1,4 +1,4 @@
-Rozwiązanie zadania "Spacje" ze strony pl.spoj.com
+Rozwiązanie zadania "Spacje" w języku java ze strony pl.spoj.com
 
 TREŚĆ ZADANIA:
 JSPACE - Spacje
